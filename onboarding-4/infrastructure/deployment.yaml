@@ -15,6 +15,5 @@ spec:
       containers:
       - name: _____
         image: _____
-        imagePullPolicy: Never
         ports:
         - containerPort: _____
